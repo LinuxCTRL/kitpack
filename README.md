@@ -4,7 +4,7 @@
 
 **Stack:** TypeScript, Ink (React for CLIs), skills.sh API, npm-published CLI + library
 
-📖 **Documentation:** [kitpack-docs.vercel.app](https://kitpack-docs.vercel.app/)
+📖 **Documentation:** [linuxctrl-docs.vercel.app/docs/kitpack](https://linuxctrl-docs.vercel.app/docs/kitpack)
 
 ---
 
