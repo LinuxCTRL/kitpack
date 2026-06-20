@@ -1,0 +1,3 @@
+# Bun configuration file for packs
+[install]
+cache = true
