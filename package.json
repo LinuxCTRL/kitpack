@@ -1,5 +1,8 @@
 {
-  "name": "kitpack",
+  "name": "@linuxctrl/kitpack",
+"publishConfig": {
+  "access": "public"
+},
   "version": "0.1.1",
   "description": "AI agent skill packager — bundle, version, and publish reusable agent instructions.",
   "type": "module",
